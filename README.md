@@ -1,4 +1,4 @@
-# Flappy bird reinforcement learning agent
+# Snake reinforcement learning agent
 This code provides an environment for the game snake. Using this environment one can train an deep-q network (DQN) agent or a deep-convolutional-q network (DCQN) agent for playing the game using reinforcement learning. Additionally one can choose freely between the following agents:
 - User agent: User played game (bump bird with space)
 - Random agent: Agent which performs random actions
