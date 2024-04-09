@@ -13,7 +13,7 @@ To run a game execute the main function
 ```python
 g.main(draw = "True")
 ```
-If using a DQN agent one can train with
+If using a DCQN agent one can train with
 ```python
 g.train_agent(draw = "False", episodes = 200, batches = 100, hyperparameters)
 ```
